@@ -1,5 +1,6 @@
 # Nama File: penjumlahan_suku2.py
 # Pembuat: Athallah Nazif Arlis Pratama
+# tanggal 02/10/2026
 # Deskripsi: Menjumlahkan suku pertama sampai ke-15 (S15) dari deret 1 + 2 + 4 + 8 + 16 + 32...(n15) secara rekursif
 
 # Definisi dan Spesifikasi

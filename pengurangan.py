@@ -1,5 +1,6 @@
 # Nama File: pengurangan.py
 # Pembuat: Athallah Nazif Arlis Pratama
+# tanggal 02/10/2026
 # Deskripsi: Mengurangkan dua bilangan secara rekursif
 
 # Definisi dan Spesifikasi

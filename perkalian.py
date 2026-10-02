@@ -1,5 +1,6 @@
 # Nama File: perkalian.py
 # Pembuat: Athallah Nazif Arlis Pratama
+# tanggal 02/10/2026
 # Deskripsi: Mengalikan dua bilangan secara rekursif
 
 # Definisi dan Spesifikasi

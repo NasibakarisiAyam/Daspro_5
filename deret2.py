@@ -1,5 +1,6 @@
 # Nama File: deret_2.py
 # Pembuat: Athallah Nazif Arlis Pratama
+# tanggal 02/10/2026
 # Deskripsi: Mencari suku ke-n dari deret 1, -2, 3, -4, 5, -6,... secara rekursif
 
 # Definisi dan Spesifikasi

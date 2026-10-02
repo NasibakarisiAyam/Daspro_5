@@ -1,5 +1,6 @@
 # Nama File: deret_1.py
 # Pembuat: Athallah Nazif Arlis Pratama
+# tanggal 02/10/2026
 # Deskripsi: Mencari suku ke-n dari deret 3, 6, 9, 12, 15, 18 secara rekursif
 
 # Definisi dan Spesifikasi
